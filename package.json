@@ -1,0 +1,14 @@
+{
+  "name": "tuomaxu-sdk",
+  "version": "1.0.3",
+  "description": "教学用SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tuomaxu",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
