@@ -1,7 +1,7 @@
-const func1 = (x)=>{
-    console.log(1);
-}
+const func1 = x => {
+  console.log(1);
+};
 
 module.exports = {
-    func1,
-}
+  func1
+};
